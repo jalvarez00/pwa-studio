@@ -14,7 +14,7 @@
 - [⭐ B2B Store features](#-b2b-store-features)
 - [📸 Screenshoots](#-screenshoots)
 - [✅ Requirements](#-requirements)
-- [⚙️ Installation](#-installation)
+- [⚙️ Installation](#%EF%B8%8F-installation)
 - [🙌🏼 How to contribute](#-how-to-contribute)
 
 </br>
@@ -48,9 +48,9 @@ If you are interested to have our solution as a **FEaaS (Frontend as a Service)*
 ## 🔧 Supported Services
 <table>
   <tr>
-    <td align="center"><a href="https://zammad.com/en"><img src="./app/packages/extensions/images/ZammadLogo.svg"  height="60" alt=""/><br /><sub><b>Zammad</b></sub></a><br /></td>
+    <td align="center"><a href="https://zammad.com/"><img src="./app/packages/extensions/images/ZammadLogo.svg"  height="60" alt=""/><br /><sub><b>Zammad</b></sub></a><br /></td>
     <td align="center"><a href="https://moodle.org/"><img src="./app/packages/extensions/images/MoodleLogo.svg"  height="60" alt=""/><br /><sub><b>Moodle</b></sub></a><br /></td>
-    <td align="center"><a href="https://moodle.org/"><img src="./app/packages/extensions/images/AmazonConnectLogo.png"  height="60" alt=""/><br /><sub><b>Amazon Connect</b></sub></a><br /></td>
+    <td align="center"><a href="https://aws.amazon.com/connect/"><img src="./app/packages/extensions/images/AmazonConnectLogo.png"  height="60" alt=""/><br /><sub><b>Amazon Connect</b></sub></a><br /></td>
   </tr>
 </table>
 
